@@ -20,3 +20,8 @@ sum += array[i];
 return sum / array.length;
   }
 }
+
+console.log(findAverage([1,1,1]));
+console.log(findAverage([1, 2, 3]));
+console.log(findAverage([1, 2, 3, 4]));
+
